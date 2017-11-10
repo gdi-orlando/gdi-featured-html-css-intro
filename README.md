@@ -2,7 +2,7 @@
 
 Welcome to GDI Orlando's Intro to HTML/CSS Series!
 
-Slides and materials are hosted at [http://girldevelopit.github.io/gdi-featured-html-css-intro//](http://girldevelopit.github.io/gdi-featured-html-css-intro/).
+Slides and materials are hosted at [https://gdi-orlando.github.io/gdi-featured-html-css-intro/#//](https://gdi-orlando.github.io/gdi-featured-html-css-intro/#/).
 
 ## Course description
 This is a 4-part, 8-hour course.
