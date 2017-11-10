@@ -1,4 +1,7 @@
 # Intro to HTML/CSS
+
+Welcome to GDI Orlando's Intro to HTML/CSS Series!
+
 Slides and materials are hosted at [http://girldevelopit.github.io/gdi-featured-html-css-intro//](http://girldevelopit.github.io/gdi-featured-html-css-intro/).
 
 ## Course description
